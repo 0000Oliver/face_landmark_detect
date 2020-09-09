@@ -1,0 +1,7 @@
+2020-09-08 21:40:28,571 SMD.py[line:85] INFO SDM_0.1_4_8_100_None_80  learning rate : 0.1  feature block :  4  block size : 8  PCA number : 100  lr_decay : None number of picture : 80
+2020-09-08 21:40:28,572 SMD.py[line:96] INFO train_loss : 21.266751302083335
+2020-09-08 21:40:28,573 SMD.py[line:101] INFO test_loss : 26.25710286458333
+2020-09-08 21:40:28,573 SMD.py[line:108] INFO epoch : 0   lr :  0.1
+2020-09-08 21:40:55,673 SMD.py[line:124] INFO train_loss : 17.226068554686684   costtime : 27
+2020-09-08 21:40:55,873 SMD.py[line:130] INFO batch_test_loss : 29.91892457329795   costtime : 0
+2020-09-08 21:40:55,873 SMD.py[line:132] INFO 收敛完成

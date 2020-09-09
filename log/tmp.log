@@ -1,0 +1,16 @@
+Tue, 08 Sep 2020 21:40:28 SMD.py[line:85] INFO SDM_0.1_4_8_100_None_80  learning rate : 0.1  feature block :  4  block size : 8  PCA number : 100  lr_decay : None number of picture : 80
+Tue, 08 Sep 2020 21:40:28 SMD.py[line:96] INFO train_loss : 21.266751302083335
+Tue, 08 Sep 2020 21:40:28 SMD.py[line:101] INFO test_loss : 26.25710286458333
+Tue, 08 Sep 2020 21:40:28 SMD.py[line:108] INFO epoch : 0   lr :  0.1
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:74] DEBUG PCA shape : (80, 100) cost time: 26
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:124] INFO train_loss : 17.226068554686684   costtime : 27
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:130] INFO batch_test_loss : 29.91892457329795   costtime : 0
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:132] INFO 收敛完成
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:85] INFO SDM_0.1_4_8_200_None_80  learning rate : 0.1  feature block :  4  block size : 8  PCA number : 200  lr_decay : None number of picture : 80
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:96] INFO train_loss : 21.266751302083335
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:101] INFO test_loss : 26.25710286458333
+Tue, 08 Sep 2020 21:40:55 SMD.py[line:108] INFO epoch : 0   lr :  0.1
+Tue, 08 Sep 2020 21:41:23 SMD.py[line:74] DEBUG PCA shape : (80, 200) cost time: 26
+Tue, 08 Sep 2020 21:41:23 SMD.py[line:124] INFO train_loss : 17.226068554687497   costtime : 27
+Tue, 08 Sep 2020 21:41:23 SMD.py[line:130] INFO batch_test_loss : 27.250400196336102   costtime : 0
+Tue, 08 Sep 2020 21:41:23 SMD.py[line:132] INFO 收敛完成
